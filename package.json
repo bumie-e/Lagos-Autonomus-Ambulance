@@ -1,0 +1,15 @@
+{
+  "name": "lagos-ambulance-uncertainty",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Certainty-based vs belief-based ambulance routing under uncertain road conditions",
+  "type": "commonjs",
+  "scripts": {
+    "record:main": "node record.mjs main",
+    "record:counter": "node record.mjs counter"
+  },
+  "dependencies": {
+    "puppeteer-core": "^25.19.0",
+    "three": "^0.170.0"
+  }
+}
